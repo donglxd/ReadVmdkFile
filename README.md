@@ -11,6 +11,10 @@ Installation and usage tutorial
 
 3. Unzip ReadVMDKFile.rar (password 1234), run ReadVMDKFile.py (please install Python 3, the latest version is fine), and then paste the previous vmdk volume directory with the command line that pops up. Press Enter and wait for it to read. After a while, you will see an image showing the relationship between VMDKs.
 
+Image after use：
+![](https://github.com/donglxd/ReadVmdkFile/raw/main/%E6%95%88%E6%9E%9C%E5%9B%BE1.png)
+![](https://github.com/donglxd/ReadVmdkFile/raw/main/%E6%95%88%E6%9E%9C%E5%9B%BE2.png)
+
 
 
  
